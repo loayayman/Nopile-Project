@@ -60,3 +60,8 @@ The analysis focuses on historical trends such as the dominance of US-born laure
 1. Clone this repository:
    ```bash
    git clone <your-repo-link>
+   pip install numpy pandas matplotlib seaborn
+   jupyter notebook
+
+
+
